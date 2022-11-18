@@ -87,9 +87,13 @@ Observations & Conclusion
 💻 Algorithms used
 
 •Logistic Regression
-•Passive Aggressive Classifier,
-•Stochastic Gradient Descent Classifier,
+
+•Passive Aggressive Classifier
+
+•Stochastic Gradient Descent Classifier
+
 •Support Vector machine
+
 •Random Forest
 
 -----------------------------------------------------
