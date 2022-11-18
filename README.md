@@ -6,14 +6,23 @@ Predictive model for Covid-19 tweet sentiment analysis based on the tweet datase
 
 💾 Table of Content
 Introduction
+
 Problem Statement
+
 Objectives
+
 Data Summary
+
 Steps involved
+
 Exploratory Data Analysis
+
 Feature Engineering
+
 Algorithms used
+
 Model Evaluation
+
 Conclusion
 -----------------------------------------------------
 
@@ -60,12 +69,17 @@ Predictive model for Covid-19 tweet sentiment analysis based on the tweet datase
 ⚙️ Steps Involved
 
 Analyzing dataset
+
 Exploratory Data Analysis
+
 Text Preprocessing
+
 Feature Engineering
+
 Classification
 > Model Training 
 > Result from model training
+> 
 Observations & Conclusion
 
 -----------------------------------------------------
@@ -83,6 +97,9 @@ Observations & Conclusion
 CONCLUSION 
 
 Thus we conclude our project on coronavirus Tweet Sentiment Analysis. We used 5 different classification algorithms as Logistic regression, SVM, SGD, Random forest & passive aggressive classifier. We started by analyzing the dataset to learn more about the variables involved.
+
 As a part of Exploratory Data Analysis, we tried to derive different patterns in the data. For building different classification models we used the future 'OriginalTweet' and the target variable 'Sentiment'. By performing tweet cleaning, Removing stopwords, Removing punctuations and Stemming, We prepared the column 'OriginalTweet' for modelling. We applied 5 different classification models among which Logistic Regression is the best performing model. Logistic Regression with 80% (approx) accuracy performed well for multinomial classification.
+
 We hope this project will be helpful for the government and NGO’S to take adequate measures in policy making and rehabilitation respectively . 
+
 Various project organizations can make profit through the production and distribution of essentials items during the pandemic by analyzing various sentiments.
