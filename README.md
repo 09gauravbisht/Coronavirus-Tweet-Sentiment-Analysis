@@ -73,10 +73,10 @@ Text Preprocessing.
 Feature Engineering
 
 Classification
+
 > Model Training 
 > Result from model training
-> 
-Observations & Conclusion
+> Observations & Conclusion
 
 -----------------------------------------------------
 
