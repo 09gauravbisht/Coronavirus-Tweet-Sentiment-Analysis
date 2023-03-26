@@ -68,7 +68,7 @@ Analyzing dataset
 
 Exploratory Data Analysis
 
-Text Preprocessing
+Text Preprocessing.
 
 Feature Engineering
 
